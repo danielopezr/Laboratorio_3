@@ -1,0 +1,15 @@
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\bin\Debug\Laboratorio_3.exe.config
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\bin\Debug\Laboratorio_3.exe
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\bin\Debug\Laboratorio_3.pdb
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.csproj.AssemblyReference.cache
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.Properties.Resources.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.csproj.GenerateResource.cache
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.csproj.CoreCompileInputs.cache
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.exe
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.pdb
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.InicioForm.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.JuegoForm.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.JugadoresForm.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.ReglasForm.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.CorreosForm.resources
+C:\Users\dlope\source\repos\Laboratorio_3\Laboratorio_3\obj\Debug\Laboratorio_3.GustosForm.resources
